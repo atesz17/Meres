@@ -1,0 +1,3 @@
+verilog work "cntr.v"
+verilog work "cntrtest.v"
+verilog work "d:/Xilinx/14.6/ISE_DS/ISE//verilog/src/glbl.v"
