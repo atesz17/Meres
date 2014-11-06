@@ -24,8 +24,8 @@
 static const char *ng0 = "D:/Xilinx/Projects/hazi_uj/cntr.v";
 static unsigned int ng1[] = {39U, 0U};
 static unsigned int ng2[] = {0U, 0U};
-static int ng3[] = {9, 0};
-static int ng4[] = {0, 0};
+static int ng3[] = {10, 0};
+static int ng4[] = {7, 0};
 static int ng5[] = {2, 0};
 static int ng6[] = {1, 0};
 

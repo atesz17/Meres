@@ -39,7 +39,7 @@ always @ (posedge clk)
 								begin
 									if (!par_en)
 										begin
-											if ((counter%8 == 0) & (counter !=0))
+											if (counter%10 == 7)
 												counter <= counter+2;
 											else
 												counter <= counter+1;

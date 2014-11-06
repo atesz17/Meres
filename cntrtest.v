@@ -56,7 +56,7 @@ module cntrtest;
 		clk = 0;
 		rst = 0;
 		START = 0;
-		par_en = 0;
+		par_en = 1;
 		en_usrt = 0;
 		RTS = 1;
 
