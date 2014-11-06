@@ -16,7 +16,8 @@ Compiling module top
 Compiling module test
 Compiling module glbl
 Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
 Compiled 5 Verilog Units
 Built simulation executable D:/Xilinx/Projects/hazi_uj/test_isim_beh.exe
-Fuse Memory Usage: 25560 KB
-Fuse CPU Usage: 1561 ms
+Fuse Memory Usage: 25568 KB
+Fuse CPU Usage: 1546 ms

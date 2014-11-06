@@ -63,7 +63,7 @@ module test;
 		#10 rst=1;
 		#10 rst=0;
 		#10 start=1;
-		#10000 start=0; 
+		#20 start=0; 
 		// Add stimulus here
 
 	end
