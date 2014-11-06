@@ -55,7 +55,7 @@ module test;
 		usrt_clk = 0;
 		rst = 0;
 		start = 0;
-		sw6 = 0;
+		sw6 = 1;
 
 		// Wait 100 ns for global reset to finish
 		#100;

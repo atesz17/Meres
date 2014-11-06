@@ -36,25 +36,25 @@ always @ (sel)
 			
 			6'd10 : txd = 0; // b START
 			6'd11 : txd = 0;
-			6'd12 : txd = 0;
+			6'd12 : txd = 1;
 			6'd13 : txd = 0;
 			6'd14 : txd = 0;
-			6'd15 : txd = 1;
+			6'd15 : txd = 0;
 			6'd16 : txd = 1;
-			6'd17 : txd = 0;
-			6'd18 : txd = 1;
-			6'd19 : txd = 0; // b STOP
+			6'd17 : txd = 1;
+			6'd18 : txd = 0;
+			6'd19 : txd = 1; // b STOP
 
-			6'd20 : txd = 1; // c START
+			6'd20 : txd = 0; // c START
 			6'd21 : txd = 1;
-			6'd22 : txd = 0;
+			6'd22 : txd = 1;
 			6'd23 : txd = 0;
 			6'd24 : txd = 0;
-			6'd25 : txd = 1;
+			6'd25 : txd = 0;
 			6'd26 : txd = 1;
 			6'd27 : txd = 1;
 			6'd28 : txd = 1;
-			6'd29 : txd = 0; // c STOP
+			6'd29 : txd = 1; // c STOP
 			
 			6'd30 : txd = 0; // d START
 			6'd31 : txd = 0;

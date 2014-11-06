@@ -1,3 +1,5 @@
+verilog work "mpx.v"
 verilog work "cntr.v"
-verilog work "cntrtest.v"
+verilog work "top.v"
+verilog work "test.v"
 verilog work "d:/Xilinx/14.6/ISE_DS/ISE//verilog/src/glbl.v"
