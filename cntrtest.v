@@ -56,7 +56,7 @@ module cntrtest;
 		clk = 0;
 		rst = 0;
 		START = 0;
-		par_en = 1;
+		par_en = 0;
 		en_usrt = 0;
 		RTS = 1;
 
@@ -66,7 +66,7 @@ module cntrtest;
 		#10 rst=1;
 		#10 rst=0;
 		#10 START=1;
-		#10000 START=0; 
+		#20 START=0; 
         
 		 
 		// Add stimulus here

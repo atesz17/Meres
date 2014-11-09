@@ -2,14 +2,14 @@ Command line:
    cntrtest_isim_beh.exe
      -simmode  gui
      -simrunnum  0
-     -socket  47572
+     -socket  47512
 
-Thu Nov 06 13:36:27 2014
+Sun Nov 09 21:27:57 2014
 
 
- Elaboration Time: 0.125 sec
+ Elaboration Time: 0.109375 sec
 
- Current Memory Usage: 519.66 Meg
+ Current Memory Usage: 523.854 Meg
 
  Total Signals          : 23
  Total Nets             : 26
@@ -21,9 +21,9 @@ Thu Nov 06 13:36:27 2014
  Total Scalar Nets and Variables : 120
 Total Line Count : 47
 
- Total Simulation Time: 0.34375 sec
+ Total Simulation Time: 0.1875 sec
 
- Current Memory Usage: 834.249 Meg
+ Current Memory Usage: 523.854 Meg
 
-Thu Nov 06 13:37:00 2014
+Sun Nov 09 21:28:14 2014
 

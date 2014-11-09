@@ -66,6 +66,8 @@ always @ (sel)
 			6'd37 : txd = 1;
 			6'd38 : txd = 0;
 			6'd39 : txd = 1; // d STOP
+			
+			default: txd = 1;
 		endcase
 	end
 
